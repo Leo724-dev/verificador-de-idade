@@ -37,9 +37,10 @@ input{
     margin-bottom: 15px;
 }
 
-#imagem{
+#foto{
     display: block;
     margin: auto;
+    margin-top: 15px;
     width: 200px;
     height: 200px;
     border-radius: 50%;
